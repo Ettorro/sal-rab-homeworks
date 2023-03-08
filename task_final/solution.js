@@ -40,11 +40,7 @@ function sendRequest(name, phone, address, goods, sum) {
             address: 'ул. Академика Королёва, дом 12, 1 подъезд, 15 этаж, кв. 253',
             sum: 900
         },
-        goods: [
-            {
-            title: 'Пицца',
-            count: 2
-            }
+        goods: [     
         ]
     };
 
